@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @adityasinha444
 - 👀
-- 🌱 I’m currently learning git and java
+- 🌱 I’m currently learning java
 -   Also learning HTML, CSS and JS.
+- CRUD operations- Spring Boot, REST APIs.
 
 <!---
 adityasinha444/adityasinha444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
